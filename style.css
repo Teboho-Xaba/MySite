@@ -360,14 +360,6 @@ padding: 160px 15% 120px;
     opacity: 0;
     transition: transform 450ms, opacity 300ms;
   }
-
-.leads h3{
-    font-size: 16px;
-}
-
-.leads h4{
-    font-size: 12px;
-}
   
 .project__description--title {
     font-size: 40px;
@@ -554,6 +546,14 @@ padding: 160px 15% 120px;
     .navlist.open{
         top: 100%;
     }
+    
+.leads h3{
+    font-size: 12px;
+}
+
+.leads h4{
+    font-size: 8px;
+}
 }
 
 @media (max-width: 425px){
